@@ -17,6 +17,7 @@ Todo List com React JS e Java Spring Boot
    O projeto utilizou como servidor de banco de dados o MariaDB. Para criar a base de dados:
     
     create database dbtodo;
-    mysql -uroot -p --default-character-set=utf8 dbtodo < dbtodo.sql
-   
+       
    Após isso basta importar o arquivo dbtodo.sql disponível na pasta database.
+   
+    mysql -uroot -p --default-character-set=utf8 dbtodo < dbtodo.sql
