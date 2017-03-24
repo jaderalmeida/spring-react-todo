@@ -10,4 +10,4 @@ Todo List com React JS e Java Spring Boot
 
 ## server-spring setup:
 
-    Para testar o projeto Server Spring (Rest Api) basta importar o projeto no Eclipse e importá-lo como um Projeto Maven, apos isso executar o ApiRestApplication.java como um Java Application, o server irá subir na porta 8080
+   Para testar o projeto Server Spring (Rest Api) basta importar o projeto no Eclipse e importá-lo como um Projeto Maven, apos isso executar o ApiRestApplication.java como um Java Application, o server irá subir na porta 8080
