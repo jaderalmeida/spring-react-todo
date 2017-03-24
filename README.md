@@ -6,7 +6,7 @@ Todo List com React JS e Java Spring Boot
     $ cd client-react/ && npm run-script build
     $ npm start 
     
-    O comando npm start irá subir a aplicação react em um servidor de testes na porta 3000.
+   O comando npm start irá subir a aplicação react em um servidor de testes na porta 3000.
 
 ## server-spring setup:
 
