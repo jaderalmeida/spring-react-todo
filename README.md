@@ -30,12 +30,12 @@ Todo List com React JS e Java Spring Boot
   Back-end: Maven + Spring Boot
   Front-end: ReactJS
   Banco de Dados: MariaDB
-
-## trabalho final arquitetura de aplicação web
-# arquitetura de aplicação web
+  
 # puc minas
+## arquitetura de aplicação web
+### trabalho final arquitetura de aplicação web
 
-# alunos:
+### alunos:
    Fernando Borges
    Jader Almeida
    Yghor Pereira
