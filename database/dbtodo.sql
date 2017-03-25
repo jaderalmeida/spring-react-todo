@@ -29,7 +29,7 @@ SET time_zone = "+00:00";
 CREATE TABLE `todo` (
   `id` int(11) NOT NULL,
   `title` varchar(255) DEFAULT NULL,
-  `completed` tinyint(1) DEFAULT NULL
+  `completed` tinyint(1) DEFAULT 0
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
