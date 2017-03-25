@@ -4,8 +4,8 @@ Todo List com React JS e Java Spring Boot
 ## client-react setup:
 
     $ cd web-react/ && npm install
-    $ npm start 
-    
+    $ npm start
+
    O comando npm start irá subir a aplicação react em um servidor de testes na porta 3000.
 
 ## server-spring setup:
@@ -15,9 +15,28 @@ Todo List com React JS e Java Spring Boot
 ## database setup:
 
    O projeto utilizou como servidor de banco de dados o MariaDB. Para criar a base de dados:
-    
+
     create database dbtodo;
-       
+
    Após isso basta importar o arquivo dbtodo.sql disponível na pasta database.
-   
+
     mysql -uroot -p --default-character-set=utf8 dbtodo < dbtodo.sql
+
+## info:
+
+  Desenvolvido com Fedora 25
+  IDE: Eclipse Neon
+  Editor: Atom
+  Back-end: Maven + Spring Boot
+  Front-end: ReactJS
+  Banco de Dados: MariaDB
+
+## trabalho final arquitetura de aplicação web
+# arquitetura de aplicação web
+# puc minas
+
+# alunos:
+   Fernando Borges
+   Jader Almeida
+   Yghor Pereira
+   Mário Victor
