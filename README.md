@@ -31,7 +31,7 @@ Todo List com React JS e Java Spring Boot
   Front-end: ReactJS
   Banco de Dados: MariaDB
   
-## puc minas - arquitetura de aplicação web
+## puc minas - engenharia de software
    
    trabalho final arquitetura de aplicação web
 
