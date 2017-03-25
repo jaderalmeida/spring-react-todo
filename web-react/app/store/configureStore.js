@@ -4,11 +4,6 @@ import thunk from 'redux-thunk';
 
 const enhancer = compose(
   applyMiddleware(thunk),
-  persistState(
-    window.location.href.match(
-      /[?&]debug_session=([^&#]+)\b/
-    )
-  )
 );
 
 export default function configureStore(initialState) {
