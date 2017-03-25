@@ -31,12 +31,12 @@ Todo List com React JS e Java Spring Boot
   Front-end: ReactJS
   Banco de Dados: MariaDB
   
-# puc minas
-## arquitetura de aplicação web
-### trabalho final arquitetura de aplicação web
+## puc minas - arquitetura de aplicação web
+   
+   trabalho final arquitetura de aplicação web
 
-### alunos:
-   Fernando Borges
-   Jader Almeida
-   Yghor Pereira
-   Mário Victor
+    alunos:
+        Fernando Borges
+        Jader Almeida
+        Yghor Pereira
+        Mário Victor
