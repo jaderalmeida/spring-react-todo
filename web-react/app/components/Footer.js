@@ -3,9 +3,9 @@ import classnames from 'classnames';
 import { SHOW_ALL, SHOW_MARKED, SHOW_UNMARKED } from '../constants/TodoFilters';
 
 const FILTER_TITLES = {
-  [SHOW_ALL]: 'All',
-  [SHOW_UNMARKED]: 'Active',
-  [SHOW_MARKED]: 'Completed'
+  [SHOW_ALL]: 'Todos',
+  [SHOW_UNMARKED]: 'Ativos',
+  [SHOW_MARKED]: 'Feitos'
 };
 
 export default class Footer extends Component {
@@ -35,11 +35,11 @@ export default class Footer extends Component {
 
   renderTodoCount() {
     const { unmarkedCount } = this.props;
-    const itemWord = unmarkedCount === 1 ? 'item' : 'items';
+    const itemWord = unmarkedCount === 1 ? 'item' : 'itens';
 
     return (
       <span className='todo-count'>
-        <strong>{unmarkedCount || 'No'}</strong> {itemWord} left
+        <strong>{unmarkedCount || 'No'}</strong> {itemWord}
       </span>
     );
   }
