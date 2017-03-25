@@ -3,7 +3,7 @@ Todo List com React JS e Java Spring Boot
 
 ## client-react setup:
 
-    $ cd client-react/ && npm run-script build
+    $ cd web-react/ && npm install
     $ npm start 
     
    O comando npm start irá subir a aplicação react em um servidor de testes na porta 3000.
