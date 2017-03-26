@@ -1,6 +1,6 @@
 {
   "name": "spring-react-todo",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Spring and React",
   "repository": "https://github.com/jaderalmeida/spring-react-todo",
   "scripts": {
